@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olaa003
 - 👀 I’m interested in sustainability/working on projects that matter
-- 🌱 I’m currently learning python, not a pro yet but happy to learn
+- 🌱 I’m currently learning python for data science specifically
 - 💞️ I’m looking to collaborate on projects that can increase my knowledge, with people willing to put me through
 - 📫 leave me a message.
 
