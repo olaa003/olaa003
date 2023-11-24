@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @olaa003
-- 👀 I’m interested in sustainability/working on projects that matter
-- 🌱 I’m currently learning python for data science specifically
-- 💞️ I’m looking to collaborate on projects that can increase my knowledge, with people willing to put me through
-- 📫 leave me a message.
+Blessing is a curious african interested in data science and providing value to your organization based off of the data available.
+
+With an outstanding track record of excellence, leadership and great communication skills she is definetely a plus to any team.
+
 
 <!---
 olaa003/olaa003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
