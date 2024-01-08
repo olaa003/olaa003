@@ -1,6 +1,4 @@
-Blessing is a curious african interested in data science and providing value to your organization based off of the data available.
-
-With an outstanding track record of excellence, leadership and great communication skills she is definetely a plus to any team.
+Blessing is a budding data scientist who believes that accomplishing tasks should not mean slavery and so she is committed to improving the quality and quantity of jobs using data and artificial intelligence, whether it involves providing insights that make the job easier, creating models that reduce burdens or deep diving into a purely technical solution that can make the quality of your job better
 
 
 <!---
